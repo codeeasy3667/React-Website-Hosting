@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/React-Website-Hosting.git/static/js/main.2dd03e94.js",
-    "index.html": "/React-Website-Hosting.git/index.html",
-    "main.2dd03e94.js.map": "/React-Website-Hosting.git/static/js/main.2dd03e94.js.map"
+    "main.js": "/React-Website-Hosting/static/js/main.2dd03e94.js",
+    "index.html": "/React-Website-Hosting/index.html",
+    "main.2dd03e94.js.map": "/React-Website-Hosting/static/js/main.2dd03e94.js.map"
   },
   "entrypoints": [
     "static/js/main.2dd03e94.js"
